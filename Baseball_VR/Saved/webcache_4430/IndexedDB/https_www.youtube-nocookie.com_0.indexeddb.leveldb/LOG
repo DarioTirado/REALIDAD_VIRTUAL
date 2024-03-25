@@ -1,0 +1,6 @@
+2024/03/25-13:26:47.948 2130 Creating DB C:/Users/xdark/OneDrive/Documentos/GitHub/REALIDAD_VIRTUAL/Baseball_VR/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/03/25-13:26:47.956 2130 Reusing MANIFEST C:/Users/xdark/OneDrive/Documentos/GitHub/REALIDAD_VIRTUAL/Baseball_VR/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/25-13:38:31.094 2e00 Level-0 table #5: started
+2024/03/25-13:38:31.117 2e00 Level-0 table #5: 1167 bytes OK
+2024/03/25-13:38:31.119 2e00 Delete type=0 #3
+2024/03/25-13:38:31.120 2e00 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
